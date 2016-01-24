@@ -1,1 +1,1 @@
-This is the second sample file to be committed on git's new branch called new-branch and I'm changing this again.
+This is the second sample file to be committed on git's new branch called new-branch and I'm changing this again. I need to commit this.
