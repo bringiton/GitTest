@@ -1,1 +1,1 @@
-This is the second sample file to be committed on git.
+This is the second sample file to be committed on git's new branch called new-branch
