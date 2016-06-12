@@ -1,1 +1,1 @@
-This is a first sample file to be commited on git.
+This is a first sample file to be committed on git.
